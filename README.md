@@ -1,4 +1,4 @@
-# Age-Calculator-App
+# Age-Calculator
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Mp5xQfy3/20240204-144751-0000.png' border='0' alt='20240204-144751-0000'/></a>
 
